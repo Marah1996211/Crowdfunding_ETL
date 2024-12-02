@@ -1,6 +1,6 @@
 # Crowdfunding ETL Project
 
-### In this ETL mini project, crowdfunding data was transformed via the ETL pipeline, using applications such as Python and PostgreSQL. The project involved several key tasks:
+In this ETL mini project, crowdfunding data was transformed via the ETL pipeline, using applications such as Python and PostgreSQL. The project involved several key tasks:
 
 ## Data Extraction
 
