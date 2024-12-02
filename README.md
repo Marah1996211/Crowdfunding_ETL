@@ -18,8 +18,11 @@ The data from the contacts spreadsheet was converted into one unique DataFrame u
 - Contacts DataFrame
 This DataFrame was also saved as a CSV file.
 
+- The Jupyter Notebook containing the Python coding is attached in this folder.
+
 ## Database Design and Creation
-An Entity Relationship Diagram (ERD) was designed to represent the relationships between the data tables represented across all four CSV files.
+An Entity Relationship Diagram (ERD) was designed using QuickDBD to represent the relationships between the data tables represented across all four CSV files.
+- The ERD is pictured in a PNG file in this folder.
 The ERD was used to create a PostgreSQL schema, which created tables in the database corresponding to each file.
 
 ## Data Loading
